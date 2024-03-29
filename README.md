@@ -1,16 +1,14 @@
 # vue
 
-## Step 1: Project Clone
-git clone https://github.com/jazel123/vue.git (Do it in Git or CMD)
+# Step 1: Project Clone
+ https://github.com/jazel123/vue.git (Do it in Git or CMD)
 
-## Step 2: Project setup
+## Step 2: To download node modules
 npm install
 
-### Step 3: Compiles and hot-reloads for development
+### Step 3: To know where the app run
 npm run serve
 
-### If you want to deploy your app (Optional)
-npm run build
 
-### Lints and fixes files (Optional)
-npm run lint
+
+
