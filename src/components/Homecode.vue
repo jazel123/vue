@@ -8,7 +8,7 @@
 
           <div class="xl:w-7/12 flex justify-center items-center">
             <div class="img">
-              <img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-1/434040729_791114996217412_8481271068723751192_n.jpg?stp=c0.0.320.320a_dst-jpg_p320x320&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHzZ3dQ7scDBKg837gXYhBkgkq0DO2pF82CSrQM7akXzUhBGaJE3d4sn0KK3YJuiLJ6Xd_24fUF6GOfCOP6T3u2&_nc_ohc=cP-NKrIA8_QAX8M9EQH&_nc_oc=Adj_UuxWdOk3uA0JmjQCBhSMI48m_XsbURzkauRAWLT5pM36npAmi9rGh7YNaJKrreE&_nc_ht=scontent.fceb8-1.fna&oh=00_AfD_kMuvGIgfYLxFJrjE9VDhchJiuU9COHwvDIPiE8W62w&oe=6606BB74" alt="Photo of Jazel Pangasi-an" class="max-w-[150px] h-auto">
+              <img src="@/assets/me.jpg" alt="Photo of Jazel Pangasi-an" class="max-w-[150px] h-auto">
             </div>
           </div>
           <br>

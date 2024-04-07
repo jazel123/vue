@@ -1,8 +1,8 @@
-# vue-portfolio-template
+# portfolio
 
 ## Step 1: Project Clone
 ```
-git clone https://github.com/arielbatoon09/vue-portfolio-template.git (Do it in Git or CMD)
+git clone https://github.com/jazel123/portfolio.git (Do it in Git or CMD)
 ```
 
 ## Step 2: Project setup
